@@ -14,17 +14,10 @@ A simple API test has been created as an example REST API system test.
 ## Resources
  * [ASWWU's Python Server](https://github.com/prestoncarman/python_server) CPTR245 fork
  * [Lab 3](https://github.com/prestoncarman/wwu_cptr245_lab3) description
-
-## Prework
-The class will need to work together to finish setting up a code review and code coverage tools.
-The pytest system works locally, but need to be updated to work for Travis CI.
-As a class, we will split up the work to finish setting up the system for testing.
-
- - Create a test database
- - Refactor code to use test database
- - Configure a code review tool
- - configure a coverage tool
- - Travis CI setup
+ * [Git](https://git-scm.com/) documentation
+ * [PyTest](https://docs.pytest.org/) xUnit for python
+ * [Python](https://www.python.org/) language documentation
+ * [REST](https://en.wikipedia.org/wiki/Representational_state_transfer) wiki description
 
 
 ## Objectives
